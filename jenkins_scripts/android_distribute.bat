@@ -1,5 +1,5 @@
 set UNITY_PATH="C:\Program Files\Unity\Hub\Editor\2022.3.26f1\Editor\Unity.exe"
-set PROJECT_PATH="%WORKSPACE%\Test_Game"
+set PROJECT_PATH="%WORKSPACE%\JenkinsTest"
 set BUNDLE_TOOL_PATH="%WORKSPACE%\jenkins_scripts\Tools\bundletool-all-1.18.0.jar"
 set APK_NAME=TestFreeStyle_29_.apk
 set EXPORT_APK_PATH="%WORKSPACE%\Export\TestFreeStyle_29_.apk"
